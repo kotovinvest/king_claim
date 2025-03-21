@@ -1,0 +1,7 @@
+web3==6.15.1  # Для работы с Ethereum (web3.py), версия предположительная, замените на актуальную
+cloudscraper==1.2.71  # Для обхода Cloudflare
+requests==2.31.0  # Для HTTP-запросов
+pandas==2.2.1  # Для работы с DataFrame и Excel
+xlsxwriter==3.2.0  # Для записи в Excel
+fake-useragent==1.5.1  # Для генерации случайных User-Agent
+pycryptodome==3.20.0  # Для криптографических операций
